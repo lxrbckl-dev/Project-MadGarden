@@ -1,0 +1,784 @@
+{
+  "Shell": [
+    {
+      "projectName": "Project Maximus 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Maximus"
+    },
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    },
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    }
+  ],
+  "Python": [
+    {
+      "projectName": "Project Maximus 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Maximus"
+    },
+    {
+      "projectName": "Project Domum",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Domum"
+    },
+    {
+      "projectName": "Project WS3K",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-WS3K"
+    },
+    {
+      "projectName": "Project Comperio",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Comperio"
+    },
+    {
+      "projectName": "Project RCoD 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-RCoD"
+    },
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    },
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    },
+    {
+      "projectName": "Project UMKC 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-UMKC"
+    },
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    },
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    },
+    {
+      "projectName": "CS461 P3",
+      "projectLink": "https://github.com/ala2q6/CS461-P3"
+    },
+    {
+      "projectName": "CS461 P2",
+      "projectLink": "https://github.com/ala2q6/CS461-P2"
+    },
+    {
+      "projectName": "HAR S22",
+      "projectLink": "https://github.com/ala2q6/HAR-S22"
+    },
+    {
+      "projectName": "CS456 P",
+      "projectLink": "https://github.com/ala2q6/CS456-P"
+    },
+    {
+      "projectName": "CS490DL P",
+      "projectLink": "https://github.com/ala2q6/CS490DL-P"
+    },
+    {
+      "projectName": "CS461 P1",
+      "projectLink": "https://github.com/ala2q6/CS461-P1"
+    }
+  ],
+  "RPi.GPIO": [
+    {
+      "projectName": "Project Maximus 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Maximus"
+    },
+    {
+      "projectName": "Project Domum",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Domum"
+    }
+  ],
+  "sys": [
+    {
+      "projectName": "Project Maximus 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Maximus"
+    },
+    {
+      "projectName": "Project RCoD 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-RCoD"
+    }
+  ],
+  "suntime": [
+    {
+      "projectName": "Project Domum",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Domum"
+    }
+  ],
+  "asyncio": [
+    {
+      "projectName": "Project Domum",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Domum"
+    },
+    {
+      "projectName": "Project WS3K",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-WS3K"
+    },
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    },
+    {
+      "projectName": "Project UMKC 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-UMKC"
+    }
+  ],
+  "discordpy": [
+    {
+      "projectName": "Project Domum",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Domum"
+    },
+    {
+      "projectName": "Project WS3K",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-WS3K"
+    },
+    {
+      "projectName": "Project Comperio",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Comperio"
+    },
+    {
+      "projectName": "Project RCoD 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-RCoD"
+    },
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    },
+    {
+      "projectName": "Project UMKC 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-UMKC"
+    }
+  ],
+  "datetime": [
+    {
+      "projectName": "Project Domum",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Domum"
+    }
+  ],
+  "json": [
+    {
+      "projectName": "Project Domum",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Domum"
+    },
+    {
+      "projectName": "Project WS3K",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-WS3K"
+    },
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    },
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    },
+    {
+      "projectName": "Project Acta Mea 6",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Acta-Mea"
+    },
+    {
+      "projectName": "Project UMKC 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-UMKC"
+    },
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    },
+    {
+      "projectName": "Project MadGarden",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-MadGarden"
+    },
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "selenium": [
+    {
+      "projectName": "Project WS3K",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-WS3K"
+    },
+    {
+      "projectName": "Project Comperio",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Comperio"
+    }
+  ],
+  "time": [
+    {
+      "projectName": "Project WS3K",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-WS3K"
+    },
+    {
+      "projectName": "Project Comperio",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Comperio"
+    },
+    {
+      "projectName": "Project RCoD 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-RCoD"
+    },
+    {
+      "projectName": "Project UMKC 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-UMKC"
+    },
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "os": [
+    {
+      "projectName": "Project Comperio",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Comperio"
+    },
+    {
+      "projectName": "Project RCoD 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-RCoD"
+    },
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    },
+    {
+      "projectName": "Project UMKC 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-UMKC"
+    },
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    },
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "xlwt": [
+    {
+      "projectName": "Project Comperio",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Comperio"
+    }
+  ],
+  "xlrd": [
+    {
+      "projectName": "Project Comperio",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Comperio"
+    }
+  ],
+  "xlutils": [
+    {
+      "projectName": "Project Comperio",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Comperio"
+    }
+  ],
+  "TypeScript": [
+    {
+      "projectName": "Project SelfStack 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-SelfStack"
+    },
+    {
+      "projectName": "Project Acta Mea 6",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Acta-Mea"
+    },
+    {
+      "projectName": "Project JA 4",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-JA"
+    },
+    {
+      "projectName": "Project MadGarden",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-MadGarden"
+    },
+    {
+      "projectName": "Project FlyingGitman",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-FlyingGitman"
+    },
+    {
+      "projectName": "portfolio",
+      "projectLink": "https://github.com/lxrbckl-dev/portfolio"
+    },
+    {
+      "projectName": "reactive-resume",
+      "projectLink": "https://github.com/lxrbckl-dev/reactive-resume"
+    }
+  ],
+  "Docker": [
+    {
+      "projectName": "Project SelfStack 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-SelfStack"
+    },
+    {
+      "projectName": "Project Kinma 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Kinma"
+    },
+    {
+      "projectName": "Project PasCam 8",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-PasCam"
+    },
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    },
+    {
+      "projectName": "Project Acta Mea 6",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Acta-Mea"
+    },
+    {
+      "projectName": "Project JA 4",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-JA"
+    },
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    },
+    {
+      "projectName": "Project MadGarden",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-MadGarden"
+    },
+    {
+      "projectName": "Project FlyingGitman",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-FlyingGitman"
+    },
+    {
+      "projectName": "portfolio",
+      "projectLink": "https://github.com/lxrbckl-dev/portfolio"
+    }
+  ],
+  "node-cron": [
+    {
+      "projectName": "Project SelfStack 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-SelfStack"
+    },
+    {
+      "projectName": "Project Kinma 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Kinma"
+    },
+    {
+      "projectName": "Project JA 4",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-JA"
+    },
+    {
+      "projectName": "Project MadGarden",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-MadGarden"
+    },
+    {
+      "projectName": "Project FlyingGitman",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-FlyingGitman"
+    }
+  ],
+  "octokit": [
+    {
+      "projectName": "Project SelfStack 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-SelfStack"
+    },
+    {
+      "projectName": "Project Kinma 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Kinma"
+    },
+    {
+      "projectName": "Project Acta Mea 6",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Acta-Mea"
+    },
+    {
+      "projectName": "Project MadGarden",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-MadGarden"
+    },
+    {
+      "projectName": "Project FlyingGitman",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-FlyingGitman"
+    }
+  ],
+  "JavaScript": [
+    {
+      "projectName": "Project Kinma 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Kinma"
+    },
+    {
+      "projectName": "Project PasCam 8",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-PasCam"
+    }
+  ],
+  "discordjs": [
+    {
+      "projectName": "Project Kinma 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Kinma"
+    },
+    {
+      "projectName": "Project PasCam 8",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-PasCam"
+    },
+    {
+      "projectName": "Project Acta Mea 6",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Acta-Mea"
+    },
+    {
+      "projectName": "Project JA 4",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-JA"
+    }
+  ],
+  "axios": [
+    {
+      "projectName": "Project Kinma 2",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Kinma"
+    },
+    {
+      "projectName": "Project Acta Mea 6",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Acta-Mea"
+    },
+    {
+      "projectName": "Project JA 4",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-JA"
+    },
+    {
+      "projectName": "Project MadGarden",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-MadGarden"
+    }
+  ],
+  "poetry": [
+    {
+      "projectName": "Project RCoD 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-RCoD"
+    },
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    },
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    }
+  ],
+  "open-ai": [
+    {
+      "projectName": "Project RCoD 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-RCoD"
+    },
+    {
+      "projectName": "Project JA 4",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-JA"
+    }
+  ],
+  "opencv-python": [
+    {
+      "projectName": "Project RCoD 3",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-RCoD"
+    }
+  ],
+  "dash": [
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    },
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    },
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    },
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "dash-bootstrap-components": [
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    },
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    },
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    },
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "random": [
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    }
+  ],
+  "pytorch": [
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    }
+  ],
+  "PIL": [
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    }
+  ],
+  "pyautogui": [
+    {
+      "projectName": "Project ASBC",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ASBC"
+    },
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "crypto": [
+    {
+      "projectName": "Project PasCam 8",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-PasCam"
+    }
+  ],
+  "git-hooks": [
+    {
+      "projectName": "Project PasCam 8",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-PasCam"
+    }
+  ],
+  "github-actions": [
+    {
+      "projectName": "Project PasCam 8",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-PasCam"
+    },
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    },
+    {
+      "projectName": "Project Acta Mea 6",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Acta-Mea"
+    },
+    {
+      "projectName": "Project JA 4",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-JA"
+    },
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    },
+    {
+      "projectName": "Project MadGarden",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-MadGarden"
+    },
+    {
+      "projectName": "portfolio",
+      "projectLink": "https://github.com/lxrbckl-dev/portfolio"
+    }
+  ],
+  "CSS": [
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    },
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    },
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    },
+    {
+      "projectName": "portfolio",
+      "projectLink": "https://github.com/lxrbckl-dev/portfolio"
+    }
+  ],
+  "dash-mantine-components": [
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    },
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "flask": [
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    }
+  ],
+  "gunicorn": [
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    }
+  ],
+  "plotly": [
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    }
+  ],
+  "requests": [
+    {
+      "projectName": "Project Fenaverat 5",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Fenaverat"
+    }
+  ],
+  "dockerode": [
+    {
+      "projectName": "Project Acta Mea 6",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-Acta-Mea"
+    }
+  ],
+  "reportlab": [
+    {
+      "projectName": "Project ACLG",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-ACLG"
+    }
+  ],
+  "re": [
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "clipboard": [
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "dash-iconify": [
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "logger": [
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "pytesseract": [
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "pygetwindow": [
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "functools": [
+    {
+      "projectName": "Project AuTester",
+      "projectLink": "https://github.com/lxrbckl-dev/Project-AuTester"
+    }
+  ],
+  "next-js": [
+    {
+      "projectName": "portfolio",
+      "projectLink": "https://github.com/lxrbckl-dev/portfolio"
+    }
+  ],
+  "tailwind": [
+    {
+      "projectName": "portfolio",
+      "projectLink": "https://github.com/lxrbckl-dev/portfolio"
+    }
+  ],
+  "radix-ui": [
+    {
+      "projectName": "portfolio",
+      "projectLink": "https://github.com/lxrbckl-dev/portfolio"
+    }
+  ],
+  "React": [
+    {
+      "projectName": "reactive-resume",
+      "projectLink": "https://github.com/lxrbckl-dev/reactive-resume"
+    }
+  ],
+  "TanStack Start": [
+    {
+      "projectName": "reactive-resume",
+      "projectLink": "https://github.com/lxrbckl-dev/reactive-resume"
+    }
+  ],
+  "Vite": [
+    {
+      "projectName": "reactive-resume",
+      "projectLink": "https://github.com/lxrbckl-dev/reactive-resume"
+    }
+  ],
+  "Tailwind CSS": [
+    {
+      "projectName": "reactive-resume",
+      "projectLink": "https://github.com/lxrbckl-dev/reactive-resume"
+    }
+  ],
+  "PostgreSQL": [
+    {
+      "projectName": "reactive-resume",
+      "projectLink": "https://github.com/lxrbckl-dev/reactive-resume"
+    }
+  ],
+  "Drizzle": [
+    {
+      "projectName": "reactive-resume",
+      "projectLink": "https://github.com/lxrbckl-dev/reactive-resume"
+    }
+  ],
+  "Better Auth": [
+    {
+      "projectName": "reactive-resume",
+      "projectLink": "https://github.com/lxrbckl-dev/reactive-resume"
+    }
+  ],
+  "oRPC": [
+    {
+      "projectName": "reactive-resume",
+      "projectLink": "https://github.com/lxrbckl-dev/reactive-resume"
+    }
+  ],
+  "C#": [
+    {
+      "projectName": "CS449 P",
+      "projectLink": "https://github.com/ala2q6/CS449-P"
+    }
+  ],
+  "C++": [
+    {
+      "projectName": "CS201R P1",
+      "projectLink": "https://github.com/ala2q6/CS201R-P1"
+    },
+    {
+      "projectName": "CS201R P2",
+      "projectLink": "https://github.com/ala2q6/CS201R-P2"
+    },
+    {
+      "projectName": "CS201R P5",
+      "projectLink": "https://github.com/ala2q6/CS201R-P5"
+    },
+    {
+      "projectName": "CS201R P3",
+      "projectLink": "https://github.com/ala2q6/CS201R-P3"
+    },
+    {
+      "projectName": "CS303 P1",
+      "projectLink": "https://github.com/ala2q6/CS303-P1"
+    },
+    {
+      "projectName": "CS303 P2",
+      "projectLink": "https://github.com/ala2q6/CS303-P2"
+    },
+    {
+      "projectName": "CS201R P4",
+      "projectLink": "https://github.com/ala2q6/CS201R-P4"
+    }
+  ],
+  "Clojure": [
+    {
+      "projectName": "CS441 P2",
+      "projectLink": "https://github.com/ala2q6/CS441-P2"
+    }
+  ]
+}
