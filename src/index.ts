@@ -5,22 +5,22 @@ import { AutomatedData, GardenData } from './interfaces';
 
 async function main(): Promise<void> {
 
-   const cronSchedule = '0 0 * * *';
+   const cronSchedule = process.env.CRON_SCHEDULE!;
    const fileIn = {
-      branch: 'V3',
-      owner: 'lxrbckl-dev',
-      repo: 'Project-SelfStack',
-      path: 'data/automated.json'
+      branch: process.env.INPUT_BRANCH!,
+      owner: process.env.INPUT_OWNER!,
+      repo: process.env.INPUT_REPO!,
+      path: process.env.INPUT_PATH!
    };
    const fileOut = {
-      branch: 'V2',
-      owner: 'lxrbckl-dev',
-      repo: 'Project-MadGarden',
-      path: 'data/automated.json',
-      commitMessage: 'Project MadGarden - Automated Data Collection'
+      branch: process.env.OUTPUT_BRANCH!,
+      owner: process.env.OUTPUT_OWNER!,
+      repo: process.env.OUTPUT_REPO!,
+      path: process.env.OUTPUT_PATH!,
+      commitMessage: process.env.COMMIT_MESSAGE!
    };
 
-   const client = new OctokitClient("");
+   const client = new OctokitClient(process.env.GITHUB_TOKEN!);
 
    async function updateGarden(): Promise<void> {
       try {
@@ -33,7 +33,6 @@ async function main(): Promise<void> {
             fileIn.branch
          );
          console.log(`Loaded ${Object.keys(repositories).length} repositories`);
-
 
          // BUILD GARDEN - Transforms repository data into an index grouped by technology.
          const garden: GardenData = {};
