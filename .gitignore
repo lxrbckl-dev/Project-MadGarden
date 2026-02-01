@@ -1,4 +1,75 @@
-/dist
-/node_modules
+# Dependencies
+node_modules/
 
+# Build output
+dist/
+build/
+out/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Optional npm cache
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn
+.yarn-integrity
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Lock files (uncomment if you want to ignore)
+# package-lock.json
+# yarn.lock
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp

@@ -1,15 +1,24 @@
 {
-  "name": "project-landscape",
+  "name": "project-madgarden",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "compile": "tsc"
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.1.0",
+    "@types/node-cron": "^3.0.11",
+    "typescript": "^5.9.3"
+  },
   "dependencies": {
-    "lxrbckl": "^9.3.0",
-    "node-cron": "^3.0.3"
+    "axios": "^1.13.4",
+    "node-cron": "^4.2.1",
+    "octokit": "^5.0.5"
   }
 }
