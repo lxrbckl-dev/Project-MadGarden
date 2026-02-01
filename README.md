@@ -31,3 +31,5 @@ docker run \
   -e GITHUB_TOKEN=<insert-token> \
   lxrbckl/project-madgarden:v2
 ```
+
+---

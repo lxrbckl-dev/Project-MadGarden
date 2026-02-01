@@ -1,0 +1,33 @@
+FROM node:18-alpine AS build
+WORKDIR /app
+
+COPY package*.json ./
+RUN npm ci
+
+COPY tsconfig.json ./
+COPY src/ ./src/
+
+RUN npm run build
+
+FROM node:18-alpine
+WORKDIR /app
+
+COPY package*.json ./
+RUN npm ci --omit=dev
+
+COPY --from=build /app/dist ./dist
+COPY data/ ./data
+
+ENV GITHUB_TOKEN=${GITHUB_TOKEN}
+ENV CRON_SCHEDULE=${CRON_SCHEDULE}
+ENV COMMIT_MESSAGE=${COMMIT_MESSAGE}
+ENV INPUT_BRANCH=${INPUT_BRANCH}
+ENV INPUT_OWNER=${INPUT_OWNER}
+ENV INPUT_REPO=${INPUT_REPO}
+ENV INPUT_PATH=${INPUT_PATH}
+ENV OUTPUT_BRANCH=${OUTPUT_BRANCH}
+ENV OUTPUT_OWNER=${OUTPUT_OWNER}
+ENV OUTPUT_REPO=${OUTPUT_REPO}
+ENV OUTPUT_PATH=${OUTPUT_PATH}
+
+CMD ["npm", "start"]
