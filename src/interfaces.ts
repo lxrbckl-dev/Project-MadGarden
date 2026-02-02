@@ -3,6 +3,7 @@ export interface Repository {
   stack: string[];
   url: string;
   description: string;
+  show: boolean;
 }
 
 export interface AutomatedData {
