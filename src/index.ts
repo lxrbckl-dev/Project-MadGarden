@@ -59,7 +59,7 @@ async function main(): Promise<void> {
             fileOut.branch,
             fileOut.commitMessage
          );
-         console.log('Garden updated successfully');
+         console.log('Garden updated successfully!');
       } catch (error) {
          console.error(error);
       }
