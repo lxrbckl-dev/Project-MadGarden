@@ -20,11 +20,11 @@ docker run \
   --restart unless-stopped \
   -e CRON_SCHEDULE="0 0 * * *" \
   -e INPUT_BRANCH=V3 \
-  -e INPUT_OWNER=lxrbckl-dev \
+  -e INPUT_OWNER=lxrbckl-labs \
   -e INPUT_REPO=Project-SelfStack \
   -e INPUT_PATH="data/automated.json" \
   -e OUTPUT_BRANCH=V2 \
-  -e OUTPUT_OWNER=lxrbckl-dev \
+  -e OUTPUT_OWNER=lxrbckl-labs \
   -e OUTPUT_REPO=Project-MadGarden \
   -e OUTPUT_PATH="data/automated.json" \
   -e COMMIT_MESSAGE="Project MadGarden - Automated Data Collection" \
